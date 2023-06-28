@@ -2,9 +2,13 @@
 Applied Data Science - Project
 
 Title: Machine Learning-Based Music Genre Classification on Spotify Data 
+
 Name: Prakhar Reg No: 20BCE2113 
+
 Email: prakhar.2020@vitstudent.ac.in 
+
 Campus: VIT Vellore 
+
 Phone: +91 7380605543
 
 Please note that I have used github LFS in order to upload the model pkl file, and it may cause problems if you directly fork the repository. 
