@@ -1,4 +1,4 @@
-SmartInternz
+# SmartInternz
 Applied Data Science - Project
 
 Title: Machine Learning-Based Music Genre Classification on Spotify Data 

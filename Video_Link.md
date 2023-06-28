@@ -9,5 +9,6 @@ Phone No: +91 7380605543
 Campus: VIT Vellore
 
 Drive Link for Video Demonstration: https://drive.google.com/file/d/1vuZszxTmjmjbSPc5-seDdqxP_BASZsJS/view
+Also, the colab link of the video can be found at: https://colab.research.google.com/drive/18An897adxsi36NoC0rR_xv76eTBt6WH7?usp=sharing
 
 NOTE: READ Flask Instructions.md TO RUN THE PROJECT. 
