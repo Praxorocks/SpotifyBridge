@@ -1,0 +1,105 @@
+ .u-section-1 {
+   background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/pexels-dmitry-demidov-3784566.jpg");
+ }
+
+ .u-section-1 .u-sheet-1 {
+   min-height: 801px;
+ }
+
+ .u-section-1 .u-text-1 {
+   font-size: 3.75rem;
+   --animation-custom_in-translate_x: 0px;
+   --animation-custom_in-translate_y: -300px;
+   --animation-custom_in-opacity: 0;
+   --animation-custom_in-rotate: 0deg;
+   --animation-custom_in-scale: 1;
+   margin: 268px auto 0;
+ }
+
+ .u-section-1 .u-form-1 {
+   height: 142px;
+   width: 570px;
+   margin: 23px auto 60px;
+ }
+
+ .u-section-1 .u-btn-1 {
+   font-size: 1.25rem;
+ }
+
+ @media (max-width: 1199px) {
+   .u-section-1 {
+     min-height: 425px;
+   }
+
+   .u-section-1 .u-sheet-1 {
+     min-height: 660px;
+   }
+ }
+
+ @media (max-width: 991px) {
+   .u-section-1 {
+     min-height: 299px;
+   }
+
+   .u-section-1 .u-sheet-1 {
+     min-height: 506px;
+   }
+ }
+
+ @media (max-width: 767px) {
+   .u-section-1 {
+     min-height: 196px;
+   }
+
+   .u-section-1 .u-sheet-1 {
+     min-height: 380px;
+   }
+
+   .u-section-1 .u-text-1 {
+     font-size: 1rem;
+   }
+
+   .u-section-1 .u-form-1 {
+     width: 540px;
+   }
+ }
+
+ @media (max-width: 575px) {
+   .u-section-1 {
+     min-height: 81px;
+   }
+
+   .u-section-1 .u-sheet-1 {
+     min-height: 239px;
+   }
+
+   .u-section-1 .u-form-1 {
+     width: 340px;
+   }
+ }
+
+ .butts {
+   background-color: black;
+   font-family: Montserrat;
+   margin-top: 20px;
+   border-radius: 20px;
+   padding: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+   box-shadow: none;
+   background-color: white;
+   color: black;
+   font-size: 1.4rem;
+   transition-delay: 100ms;
+   transition-duration: 500ms;
+   font-weight: 600;
+ }
+
+ .butts:hover {
+   background-color: #1DB954;
+   border: 1px solid black;
+ }
+
+ .genre {
+   font-family: Monserrat;
+ }
